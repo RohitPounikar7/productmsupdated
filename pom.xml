@@ -23,7 +23,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>8</java.version>
-		<sonar.projectKey>RohitPounikar7_productmsupdated</sonar.projectKey>
+		<sonar.projectKey>rohitpounikar7</sonar.projectKey>
 		<sonar.organization>RohitPounikar7</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
